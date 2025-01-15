@@ -1,3 +1,3 @@
 # demo
-Creating my first repo
+Creating my first repository.
 Hi, I am Abhishek.
